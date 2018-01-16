@@ -1,0 +1,10 @@
+body#aanmelden {
+  background-color: orange;
+  background-image: url("assets/Fotos/Aanmelden.png");
+  width: 100%;
+}
+body#index {
+  background-color: orange;
+  background-image: url("assets/Fotos/Index.png");
+  width: 100%;
+}
